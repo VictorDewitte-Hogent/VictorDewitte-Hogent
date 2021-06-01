@@ -2,7 +2,7 @@
 
 I am 18 years old and i study applied informatics @ HOGENT.
 
-##My github Stats
+## My github Stats
 
 work in progress
 
