@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there, welcome to my github page 👋
+
+I am 18 years old and i study applied informatics @ HOGENT.
+
+##My github Stats
+
+work in progress
 
 <!--
 **VictorDewitte-Hogent/VictorDewitte-Hogent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
