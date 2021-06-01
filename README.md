@@ -3,8 +3,11 @@
 I am 18 years old and i study applied informatics @ HOGENT.
 
 ## My github Stats
+[![Victor Dewitte GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorDewitteHogent&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDewitteHogent&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-work in progress
+
+
 
 <!--
 **VictorDewitte-Hogent/VictorDewitte-Hogent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
